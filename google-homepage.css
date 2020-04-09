@@ -1,0 +1,40 @@
+html{
+    background-color: white;
+    font-family: serif, Arial, Helvetica, sans-serif;
+}
+nav{
+    position: absolute;
+    top: 0px;
+}
+#about{
+    text-align: left;
+    padding-left: 15px;
+    color: black;
+}
+#login{
+    text-align: end;
+    padding-right: 15px;
+}
+#footer{
+    opacity: 50;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(165, 169, 172);
+    background-color: rgb(221, 221, 221);
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    padding: 15px 0px 0px 0px;
+    text-align: left;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+#display{
+    display: block;
+    align-content: center;
+}
+#searchbar{
+    border-radius: 10%;
+    opacity: 75;
+}
